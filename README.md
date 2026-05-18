@@ -7,7 +7,7 @@
 ### 👤 Introduction
 Hello! I am an undergraduate student at Kumoh National Institute of Technology (KIT), South Korea 🇰🇷. I am a versatile engineer specializing in **Embedded Systems**, **Android Development**, and **Hardware Repair**. I bridge the gap between hardware and software by building innovative, real-world solutions.
 
-- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude (준우등 입학)
+- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude
 - ⚙️ **Professional Experience**: Specialized in electronic device repair and hardware maintenance.
 - 🗣️ **Language**: Korean (Native) / TOEIC 695
 
@@ -61,14 +61,14 @@ Hello! I am an undergraduate student at Kumoh National Institute of Technology (
 ### 💻 Tech Gear & Hardware
 > "An engineer is only as good as their tools." Here is the gear I use to build, test, and deploy.
 
-* **Workstation Desktop**
+* **Desktop**
   * **CPU/GPU**: AMD Ryzen 9 7950X3D & Radeon RX 7900 XTX
   * **RAM**: 64GB
 * **Laptops & Mobile Gear**
   * **Main Driver**: ThinkPad T14 Gen 6 (Core Ultra 7 225H / 32GB RAM)
   * **Unix Workhorse**: MacBook Pro 16" (M1 Pro)
   * **The Legend (Modified)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
-  * **Sub Laptop**: Dell Inspiron 15 3525
+  * **Sub Laptop**: Dell Inspiron 15 3525 (AMD 5625U)
 
 ---
 
