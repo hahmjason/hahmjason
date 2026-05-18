@@ -7,7 +7,7 @@
 ### 👤 Introduction
 Hello! I am an undergraduate student at Kumoh National Institute of Technology (KIT), South Korea 🇰🇷. I am a versatile engineer specializing in **Embedded Systems**, **Android Development**, and **Hardware Repair**. I bridge the gap between hardware and software by building innovative, real-world solutions.
 
-- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude (준우등 입학)
+- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude
 - ⚙️ **Professional Experience**: Specialized in electronic device repair and hardware maintenance.
 - 🗣️ **Language**: Korean (Native) / TOEIC 695
 
