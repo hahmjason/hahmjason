@@ -13,12 +13,12 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 ---
 
 ### 📍 Academic Roadmap & Timeline
-- 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (KIT)
-  * School of Autonomous Undergraduate Studies (자율전공학부) - *Entered with Junior Summa Cum Laude (준우등 입학)*
-- 📐 **2027 (Expected)**: School of Electronic Engineering, Electronic System Major
-  * Advanced Track in Embedded Systems (임베디드시스템 심화트랙 예정)
-- 🎯 **2028 (Target)**: School of Electronic Engineering, Kyungpook National University (KNU)
 - 🏫 **2022 ~ 2025**: Unho High School (SW & Science Specialized Curriculum)
+- 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (KIT)
+  * School of Autonomous Undergraduate Studies (자율전공학부) - *Entered with Junior Summa Cum Laude*
+- 📐 **2027 (Expected)**: School of Electronic Engineering, Electronic System Major
+  * Advanced Track in Embedded Systems
+- 🎯 **2028 (Target)**: School of Electronic Engineering, Kyungpook National University (KNU)
 
 ---
 
