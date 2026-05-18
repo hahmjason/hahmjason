@@ -68,7 +68,7 @@ Hello! I am an undergraduate student at Kumoh National Institute of Technology (
   * **Main Driver**: ThinkPad T14 Gen 6 (Core Ultra 7 225H / 32GB RAM)
   * **Unix Workhorse**: MacBook Pro 16" (M1 Pro)
   * **The Legend (Modified)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
-  * **Sub Laptop**: Dell Inspiron 15 3525
+  * **Sub Laptop**: Dell Inspiron 15 3525(AMD 5625U)
 
 ---
 
