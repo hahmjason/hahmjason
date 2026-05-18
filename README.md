@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=180&text=HAHM%20JASON&fontColor=ffffff&fontSize=42&fontAlignY=45&animation=twinkling&desc=Embedded%20%26%20Android%20Dev%20%7C%20Hardware%20Enthusiast&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=180&text=HAHM%20JASON&fontColor=ffffff&fontSize=42&fontAlignY=45&animation=twinkling&desc=Embedded%20%26amp%3B%20Android%20Dev%20%7C%20Hardware%20Enthusiast&descAlignY=65&descSize=18" />
 </p>
 
 ### 👤 Introduction
