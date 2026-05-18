@@ -9,7 +9,7 @@
 ### 👤 Introduction
 Hello! I am an undergraduate student majoring in Engineering at Kumoh National Institute of Technology (KIT), South Korea 🇰🇷. I love diving deep into low-level computer systems and building efficient applications.
 
-- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude (준우등 입학)
+- 🎓 **Academic Honor**: Entered KIT with Junior Summa Cum Laude
 - 🗣️ **Language**: Korean (Native) / TOEIC 695
 
 ---
