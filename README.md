@@ -63,9 +63,9 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 
 ### 🏅 Awards & Certifications
 - 🏆 **Grand Prize (특상)** - Chungbuk Computer Genius Festival (충북 컴퓨터 꿈나무 축제, 2022)
-- 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute)
-- 📜 **SQLD** (SQL Developer Certification)
-- 📜 **COS Pro C** 2nd Class (Coding Specialist Professional)
+- 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute,2023)
+- 📜 **COS Pro C** 2nd Class (Coding Specialist Professional,2024)
+- 📜 **SQLD** (SQL Developer Certification, 2025)
 
 ---
 
@@ -79,7 +79,7 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
   * **Main Driver**: ThinkPad T14 Gen 6 (Intel Core Ultra 5 225H / 32GB RAM)
   * **Unix Workhorse**: MacBook Pro 16" (M1 Pro)
   * **The Legend (Modified)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
-  * **Sub Laptop**: Dell Inspiron 15 3525
+  * **Sub Laptop**: Dell Inspiron 15 3525(AMD 5626U)
 
 ---
 
