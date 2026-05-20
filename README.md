@@ -1,10 +1,10 @@
 # 💫 About Me
 
 ### 👤 Introduction
-Hello! I am an engineer specializing in **Embedded Systems**, **Android Development**, and **Hardware Repair**. With a solid foundation in software and science academic tracks, I bridge the gap between hardware and software to build innovative, real-world solutions.
+Hello! I'm a student studying **embedded Systems**, **Android Development**, **Hardware Repair**.
 
-- ⚙️ **Professional Experience**: Specialized in electronic device repair, precise soldering, and PCB troubleshooting.
-- 🗣️ **Language**: Korean (Native) / TOEIC 695
+- ⚙️ **Expert Experience**: Business related to electronic device repair (2024~) and business related to AR-based app development (2025~)
+- 🗣️ **Language**: Korean (native speaker) / TOEIC 695
 
 ---
 
