@@ -30,6 +30,16 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 
 ---
 
+### 🏅 Awards & Certifications
+- 🏆 **Grand Prize (특상)** - Chungbuk Computer Genius Festival (충북 컴퓨터 꿈나무 축제, 2022)
+- 🏆 **Coding Online Festival** (1st Place) - Korea Ministry of Science and ICT (Part. C, Java, Python, 2023)
+- 🎓 **code.org** Basic Concept Computer Science Completion (SW & Science Specialized HS)
+- 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute, 2023)
+- 📜 **COS Pro C** 2nd Class (Coding Specialist Professional, 2024)
+- 📜 **SQLD** (SQL Developer Certification, 2025)
+
+---
+
 ### 🛠 Tech Stacks & Tools
 
 <p align="left">
@@ -141,17 +151,6 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 * **Results**: Kaggle의 대규모 SMS Spam 데이터셋 검증 결과, 확률 모델 붕괴 현상을 완벽히 방어하여 테스트 데이터 정확도 **98% 이상**, ROC-AUC **0.99**라는 강력한 텍스트 마이닝 분류 정확도를 입증하고 수학적 조건부 확률 수식을 실증함.
 </div>
 </details>
-
-<details>
----
-
-### 🏅 Awards & Certifications
-- 🏆 **Grand Prize (특상)** - Chungbuk Computer Genius Festival (충북 컴퓨터 꿈나무 축제, 2022)
-- 🏆 **Coding Online Festival** (1st Place) - Korea Ministry of Science and ICT (Part. C, Java, Python, 2023)
-- 🎓 **code.org** Basic Concept Computer Science Completion (SW & Science Specialized HS)
-- 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute, 2023)
-- 📜 **COS Pro C** 2nd Class (Coding Specialist Professional, 2024)
-- 📜 **SQLD** (SQL Developer Certification, 2025)
 
 ---
 
