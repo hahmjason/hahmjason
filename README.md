@@ -1,9 +1,5 @@
 # 💫 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=180&text=HAHM%20JASON&fontColor=ffffff&fontSize=42&fontAlignY=45&animation=twinkling&desc=Embedded%20%26amp%3B%20Android%20Dev%20%7C%20Hardware%20Enthusiast&descAlignY=65&descSize=18" />
-</p>
-
 ### 👤 Introduction
 Hello! I am an engineer specializing in **Embedded Systems**, **Android Development**, and **Hardware Repair**. With a solid foundation in software and science academic tracks, I bridge the gap between hardware and software to build innovative, real-world solutions.
 
