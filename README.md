@@ -42,22 +42,41 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 
 ### 🛠 Tech Stacks & Tools
 
+#### 🔤 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <br>
+</p>
+
+#### 🤖 Embedded & Platforms
+<p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ST_Microelectronics-003E7A?style=flat-square&logo=stmicroelectronics&logoColor=white&text=STM32"/>
+</p>
+
+#### 💻 Operating Systems
+<p align="left">
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-48B4E0?style=flat-square&logo=pop-os&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+</p>
+
+#### 🔧 Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 ---
