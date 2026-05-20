@@ -18,11 +18,9 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 ---
 
 ### 🧠 Fields of Interest
-- **Embedded Systems & Autonomous Robotics**
-- **Hardware-Software Distributed Control Architecture**
+- **Embedded Systems**
 - **Computer Vision & On-Device AI**
-- **Android Native App Development (AR & 3D Rendering)**
-
+- **System repair and assembly**
 ---
 
 ### 🏅 Awards & Certifications
@@ -105,13 +103,6 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 <div markdown="1">
 
   **고분자 분산형 액정(PDLC) 기술 및 정밀 전압 변조 기법을 이용한 투과도 제어 스마트 아이마스크 구현예정 (2026~ )**
-</details>
-
-<details>
-<summary>🛋️ <b>App-Based AR Interior Design Platform</b></summary>
-<div markdown="1">
-  
-  **ARCore 공간 추적 및 Jetpack Compose 아키텍처를 이용한 실시간 3D 인테리어 매칭 플랫폼 구현예정 (2025~ )**
 </details>
 
 ---
