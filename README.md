@@ -86,6 +86,8 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 * **Software & AI Solution**: SBC & NPU(YOLOv5 ONNX 추론)와 아두이노(I/O 서브 제어) 간 분산 처리 구조로 센서 병목을 제거하고, 라이다 스캔 범위를 주행 시야각으로 제한 후 거리 데이터를 지수 함수(Exp) 기반으로 정규화하여 AI가 충돌 위험에 초민감하게 반응하도록 제어. $\epsilon$-greedy의 불연속적 조향 문제를 해결하고자 가중치 자체에 노이즈를 주입하는 NoisyLinear 레이어 융합 Dueling/Double DQN 알고리즘을 시뮬레이터 상에 자체 설계하여 매끄러운 수렴 경로 검증.
 <p align="center">
   <img src="Auto_car.png" alt="자율주행 자동차 프로토타입" width="80%">
+  <img src="Video Project 1.gif" alt="기본 구동 영" width="80%">
+  <img src="ezgif-75bba530825b32b2.gif" alt="임베디드 제어" width="80%">
 </p>
 </div>
 </details>
