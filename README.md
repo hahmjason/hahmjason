@@ -63,7 +63,7 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 
 ### 🏅 Awards & Certifications
 - 🏆 **Grand Prize (특상)** - Chungbuk Computer Genius Festival (충북 컴퓨터 꿈나무 축제, 2022)
-- 🏆 **coding online festival in Korea Ministry of Science and ICT (1st) - (Part.C,Java,Python, 2023)
+- 🏆 **coding online festival** in Korea Ministry of Science and ICT (1st) - (Part.C,Java,Python, 2023)
 - 🎓 **code.org** Basic Concept Computer Science Completion(SW & Science Specialized HS)
 - 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute,2023)
 - 📜 **COS Pro C** 2nd Class (Coding Specialist Professional,2024)
