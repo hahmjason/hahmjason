@@ -14,8 +14,7 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
   * School of Autonomous Undergraduate Studies (자율전공학부) - *Entered with Junior Summa Cum Laude*
 - 📐 **2027 (Expected)**: School of Electronic Engineering, Electronic System Major
   * Advanced Track in Embedded Systems
-- 🎯 **2028 (Target)**: School of Electronic Engineering, Kyungpook National University (KNU)
-
+ 
 ---
 
 ### 🧠 Fields of Interest
@@ -172,18 +171,16 @@ Hello! I am an engineer specializing in **Embedded Systems**, **Android Developm
 ### 💻 Tech Gear & Lab Equipment
 > "An engineer is only as good as their tools." Here is the gear I use to build, test, repair, and deploy.
 
-* **Workstation Desktop**
+* **Desktop**
   * **CPU/GPU**: AMD Ryzen 9 7950X3D & Radeon RX 7900 XTX
   * **RAM**: 64GB
 * **Laptops & Mobile Gear**
-  * **Main Driver**: ThinkPad T14 Gen 6 (Intel Core Ultra 5 225H / 32GB RAM)
-  * **Unix Workhorse**: MacBook Pro 16" (M1 Pro)
-  * **The Legend (Modified)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
+  * **Main System**: ThinkPad T14 Gen 6 (Intel Core Ultra 5 225H / 32GB RAM)
+  * **Mac System**: MacBook Pro 16" (M1 Pro)
+  * **My Favorite(Mod)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
   * **Sub Laptop**: Dell Inspiron 15 3525 (AMD 5625U)
 * **Lab & Repair Instrumentation**
   * **Measurement**: Tektronix TDS 2012 Dual-Channel Digital Storage Oscilloscope
-  * **Diagnostic**: Industrial Thermal Imaging Camera & High-Resolution Microscope Setup
-  * **R&D Instruments**: Arduino Uno Hardware Testbeds, Precision Soldering & Hot Air Rework Stations
 
 ---
 
