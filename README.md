@@ -3,7 +3,7 @@
 ### 👤 Introduction
 Hello! I'm a student studying **embedded Systems**, **Android Development**, **Hardware Repair**.
 
-- ⚙️ **Expert Experience**: Business related to electronic device repair (2024~) and business related to AR-based app development (2025~)
+- ⚙️ **Expert Experience**: Business related to electronic device repair (2024~) && business related to AR-based app development (2025~)
 - 🗣️ **Language**: Korean (native speaker) / TOEIC 695
 
 ---
