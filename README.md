@@ -47,8 +47,6 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 
 #### 🤖 Embedded & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ST_Microelectronics-003E7A?style=flat-square&logo=stmicroelectronics&logoColor=white&text=STM32"/>
@@ -77,7 +75,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 ### 🚀 Highlighted & Current Projects
 
 <details>
-<summary>🚗 <b>Full-Scale Autonomous Vehicle Prototype (🏆 Flagship Project)</b></summary>
+<summary>🚗 <b>Full-Scale Autonomous Vehicle Prototype (🏆 Flagship Project 2024~2026)</b></summary>
 <div markdown="1">
 
 > **NoisyLinear 기반 DQN 강화학습과 이기종 분산 제어 환경을 이용한 1인승 탑승형 자율주행 자동차 구현**
