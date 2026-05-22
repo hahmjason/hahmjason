@@ -25,7 +25,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 
 ### 🏅 Awards & Certifications
 - 🏆 **Grand Prize (특상)** - Chungbuk Computer Genius Festival (충북 컴퓨터 꿈나무 축제, 2022)
-- 🏆 **Coding Online Festival** (1st Place) - Korea Ministry of Science and ICT (Part. C, Java, Python, 2023)
+- 🏆 **Coding Online Festival** (1st Place) - Korea Ministry of Science and ICT (Part. C)
 - 🎓 **code.org** Basic Concept Computer Science Completion (SW & Science Specialized HS)
 - 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute, 2023)
 - 📜 **COS Pro C** 2nd Class (Coding Specialist Professional, 2024)
@@ -75,7 +75,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 ### 🚀 Highlighted & Current Projects
 
 <details>
-<summary>🚗 <b>Full-Scale Autonomous Vehicle Prototype (🏆 Flagship Project 2024~2026)</b></summary>
+<summary>🚗 <b>Full-Scale Autonomous Vehicle Prototype (2024~2026)</b></summary>
 <div markdown="1">
 
 > **NoisyLinear 기반 DQN 강화학습과 이기종 분산 제어 환경을 이용한 1인승 탑승형 자율주행 자동차 구현**
