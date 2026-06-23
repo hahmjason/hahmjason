@@ -12,9 +12,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 - 🏫 **2022 ~ 2025**: Unho HS (High School of SW & Science Specialized Curriculum)
 - 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (KIT)
   * School of Autonomous Undergraduate Studies (자율전공학부) - *Entered with Junior Summa Cum Laude*
-- 📐 **2027 (Expected)**: School of Electronic Engineering, Electronic System Major
-  * Advanced Track in Embedded Systems
- 
+
 ---
 
 ### 🧠 Fields of Interest
