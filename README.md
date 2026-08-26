@@ -1,24 +1,14 @@
 # 💫 About Me
 
-### 👤 Introduction
-Hello! I'm a student studying **embedded Systems**, **Android Development**, **Hardware Repair**.
-
-- ⚙️ **Expert Experience**: Business related to electronic device repair (2024~) && business related to AR-based app development (2025~)
-- 🗣️ **Language**: Korean (native speaker) / TOEIC 785
-
----
-
 ### 📍 Academic Roadmap & Timeline
 - 🏫 **2022 ~ 2025**: Unho HS (High School of SW & Science Specialized Curriculum)
 - 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (KIT)
-  * School of Autonomous Undergraduate Studies (자율전공학부) - *Entered with Junior Summa Cum Laude*
-
 ---
 
 ### 🧠 Fields of Interest
 - **Embedded Systems**
-- **Computer Vision & On-Device AI**
-- **System repair and assembly**
+- **Pysical AI**
+- **HRI**
 ---
 
 ### 🏅 Awards & Certifications
@@ -28,12 +18,13 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 - 🎓 **Samsung Brightics AI Course** Completion (Chungbuk Education & Information Research Institute, 2023)
 - 📜 **COS Pro C** 2nd Class (Coding Specialist Professional, 2024)
 - 📜 **SQLD** (SQL Developer Certification, 2025)
+- 📜 **빅데이터활용분석2급** (2026)
 
 ---
 
 ### 🛠 Tech Stacks & Tools
 
-#### 🔤 Languages & Frameworks
+#### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -43,14 +34,14 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🤖 Embedded & Platforms
+#### Embedded & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ST_Microelectronics-003E7A?style=flat-square&logo=stmicroelectronics&logoColor=white&text=STM32"/>
 </p>
 
-#### 💻 Operating Systems
+#### Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
@@ -60,7 +51,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
   <img src="https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
 </p>
 
-#### 🔧 Development Tools
+#### Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
@@ -70,10 +61,10 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 
 ---
 
-### 🚀 Highlighted & Current Projects
+### 🚀 Highlighte project
 
 <details>
-<summary>🚗 <b>Full-Scale Autonomous Vehicle Prototype (2024~2026)</b></summary>
+<summary> <b>Full-Scale Autonomous Vehicle Prototype (2024~2026)</b></summary>
 <div markdown="1">
 
 > **NoisyLinear 기반 DQN 강화학습과 이기종 분산 제어 환경을 이용한 1인승 탑승형 자율주행 자동차 구현**
@@ -92,26 +83,10 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 <summary>⚡ <b>Closed-Loop Wireless Power Transfer System</b></summary>
 <div markdown="1">
 
-> **Quad-Tree 공간 탐색 및 Hill-Climbing 메커니즘을 이용한 폐루프 자동 정렬 무선 전력 전송 시스템 구현**
-
-* **The Problem**: 무선 전력 전송 환경에서 송수신 코일 간 미세한 정렬 오차(Misalignment) 발생 시 결합 계수($k$)가 비선형적으로 급감하여 전송 효율이 요동치는 한계 직면.
-* **Core Algorithm**: 물리적 센서의 개입 없이 수신단 전력 프로파일 및 변동률 메커니즘을 역산하여 결합 계수를 실시간 추정하는 시스템 구상.
-</div>
-</details>
+### Completed Projects
 
 <details>
-<summary>👁️ <b>Smart Eye Mask Development</b></summary>
-<div markdown="1">
-
-  **고분자 분산형 액정(PDLC) 기술 및 정밀 전압 변조 기법을 이용한 투과도 제어 스마트 아이마스크 구현예정 (2026~ )**
-</details>
-
----
-
-### 🏆 Completed Projects & Research
-
-<details>
-<summary>🤖 <b>Intelligent Companion Robot for Elderly Care</b></summary>
+<summary> <b>Intelligent Companion Robot for Elderly Care</b></summary>
 <div markdown="1">
 
 > **컴퓨터 비전 트래킹, VAD 음성 파이프라인 및 LLM을 융합한 독거노인 맞춤형 지능형 반려로봇 시스템 구현**
@@ -127,7 +102,7 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 </details>
 
 <details>
-<summary>🚨 <b>Discontinuity-Based Motor Load Safety Device</b></summary>
+<summary> <b>Discontinuity-Based Motor Load Safety Device</b></summary>
 <div markdown="1">
 
 > **함수의 극한 및 불연속 신호 감지 기법을 이용한 모터 부하 과전류 예방 장치 구현**
@@ -172,22 +147,6 @@ Hello! I'm a student studying **embedded Systems**, **Android Development**, **H
 </p>
 </div>
 </details>
-
----
-
-### 💻 Tech Gear & Lab Equipment
-> "An engineer is only as good as their tools." Here is the gear I use to build, test, repair, and deploy.
-
-* **Desktop**
-  * **CPU/GPU**: AMD Ryzen 9 7950X3D & Radeon RX 7900 XTX
-  * **RAM**: 64GB
-* **Laptops & Mobile Gear**
-  * **Main System**: ThinkPad T14 Gen 6 (Intel Core Ultra 5 225H / 32GB RAM)
-  * **Mac System**: MacBook Pro 16" (M1 Pro)
-  * **My Favorite(Mod)**: ThinkPad X230 (*Retro-fitted with X220 classic keyboard & upgraded Core i7 Quad-Core QE CPU*)
-  * **Sub Laptop**: Dell Inspiron 15 3525 (AMD 5625U)
-* **Lab & Repair Instrumentation**
-  * **Measurement**: Tektronix TDS 2012 Dual-Channel Digital Storage Oscilloscope
 
 ---
 
