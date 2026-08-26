@@ -61,7 +61,7 @@
 
 ---
 
-### 🚀 Highlighte project
+### Highlighte project
 
 <details>
 <summary> <b>Full-Scale Autonomous Vehicle Prototype (2024~2026)</b></summary>
@@ -79,9 +79,7 @@
 </div>
 </details>
 
-<details>
 ### Completed Projects
-
 <details>
 <summary> <b>Intelligent Companion Robot for Elderly Care</b></summary>
 <div markdown="1">
