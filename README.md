@@ -80,9 +80,6 @@
 </details>
 
 <details>
-<summary>⚡ <b>Closed-Loop Wireless Power Transfer System</b></summary>
-<div markdown="1">
-
 ### Completed Projects
 
 <details>
