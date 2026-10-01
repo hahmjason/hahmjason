@@ -7,7 +7,10 @@
 
 ### 🧠 Fields of Interest
 - **Embedded Systems**
+- **Robotics**
 - **Pysical AI**
+- **On-Device AI**
+- **Edge Computing**
 - **HRI**
 - **SDV**
 
