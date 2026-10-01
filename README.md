@@ -2,13 +2,13 @@
 
 ### 📍 Academic Roadmap & Timeline
 - 🏫 **2022 ~ 2025**: Unho HS (High School of SW & Science Specialized Curriculum)
-- 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (kit)
+- 🎓 **2026 ~ Present**: Undergraduate Student at Kumoh National Institute of Technology (KIT)
 ---
 
 ### 🧠 Fields of Interest
 - **Embedded Systems**
 - **Robotics**
-- **Pysical AI**
+- **Physical AI**
 - **On-Device AI**
 - **Edge Computing**
 - **HRI**
@@ -26,7 +26,7 @@
 - 🎓 **Dale Carnegie Course** (Dale Carnegie & Associates, Inc., 2026)
 - 📜 **COS Pro C** 2nd Class (YBM, 2024)
 - 📜 **SQLD** (SQL Developer Certification, 2025)
-- 📜 **빅데이터활용분석 2급** (korea human resource development institute, 2026)
+- 📜 **빅데이터활용분석 2급** (Korea Human Resource Development iInstitute, 2026)
 
 ---
 
