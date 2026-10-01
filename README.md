@@ -1,4 +1,9 @@
 # 💫 About Me
+Hi, I'm **Jun-seok Ham** 👋
+
+I want to build machines that step out of the screen and genuinely help people in the real world. To me, a robot isn’t just a humanoid figure—it is any intelligent physical system that can perceive, make decisions, and act safely by a human's side.
+
+For technology to truly coexist with us, it shouldn't rely on remote servers; it needs to think and react instantly on the hardware itself. That is why all my interests naturally connect into one path: diving from board-level embedded control to on-device Physical AI, aiming to create responsive mobility and robotics that make everyday life safer and warmer.
 
 ### 📍 Academic Roadmap & Timeline
 - 🏫 **2022 ~ 2025**: Unho HS (High School of SW & Science Specialized Curriculum)
